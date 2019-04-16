@@ -1,3 +1,26 @@
+This is my portfolio/personal website.
+Hope you enjoy your time here!
+
+To start: 
+1. In terminal, run `npm start`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
